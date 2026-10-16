@@ -1,4 +1,4 @@
-package mathutil
+package math
 
 // GCD returns the greatest common divisor of a and b via the Euclidean
 // algorithm. GCD(0, b) = b and GCD(a, 0) = a, matching convention (0 is
